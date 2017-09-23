@@ -8,4 +8,5 @@ public class test
 {
     // just a test
     // now we are testing branch
+    // test branch2 which is a remote branch
 }
